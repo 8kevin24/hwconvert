@@ -1,4 +1,4 @@
-# <hwconvert>
+# hwconvert
 a tool for converting files between formats(useful for gradescope submission). currently works for text formats and image to pdfs(the most common conversions needed for homeworks) only
 
 supports: txt/md conversions, image to pdf, multiple image to pdf conversions
