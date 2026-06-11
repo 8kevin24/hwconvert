@@ -3,7 +3,7 @@ a tool for converting files between formats(useful for gradescope submission). c
 
 supports: txt/md conversions, image to pdf, multiple image to pdf conversions
 
-# usage and installation
+# Usage
 
 install:
 
