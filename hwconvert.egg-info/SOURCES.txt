@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+hwconvert/__init__.py
+hwconvert/converters.py
+hwconvert/core.py
+hwconvert/utils.py
+hwconvert.egg-info/PKG-INFO
+hwconvert.egg-info/SOURCES.txt
+hwconvert.egg-info/dependency_links.txt
+hwconvert.egg-info/top_level.txt
+tests/test_converters.py
+tests/test_core.py
