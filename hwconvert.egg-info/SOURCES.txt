@@ -1,6 +1,7 @@
 README.md
 pyproject.toml
 hwconvert/__init__.py
+hwconvert/cli.py
 hwconvert/converters.py
 hwconvert/core.py
 hwconvert/utils.py
