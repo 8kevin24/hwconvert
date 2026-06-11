@@ -7,7 +7,7 @@ known bugs:
 
 -for some reason txt to pdf generates output but it just strips the file of whitespace, doesn't actually generate pdf
 
-# Usage
+## Usage
 
 install:
 
