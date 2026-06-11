@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hwconvert"
+version = "0.1.0"
+description = "Homework file conversion tool"
+requires-python = ">=3.8"
+dependencies = [
+    "pillow",
+]
+
+[project.scripts]
+hwconvert = "hwconvert.cli:main"

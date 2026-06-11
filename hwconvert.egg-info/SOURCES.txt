@@ -8,6 +8,8 @@ hwconvert/utils.py
 hwconvert.egg-info/PKG-INFO
 hwconvert.egg-info/SOURCES.txt
 hwconvert.egg-info/dependency_links.txt
+hwconvert.egg-info/entry_points.txt
+hwconvert.egg-info/requires.txt
 hwconvert.egg-info/top_level.txt
 tests/test_converters.py
 tests/test_core.py
